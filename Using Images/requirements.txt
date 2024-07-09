@@ -1,0 +1,7 @@
+ipykernel
+matplotlib
+numpy<2
+opencv-python
+imutils
+scikit-learn
+scikit-image
