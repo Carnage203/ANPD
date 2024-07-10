@@ -1,0 +1,5 @@
+opencv-python
+ultralytics
+numpy<2
+supervision==0.2.0
+#pip install tifffile>=2022.8.12 but make sure numpy version is 1.26.4
